@@ -1,2 +1,2 @@
 # Nitflex
-ejemplo de modelado de base de datos con objetos
+Ejemplo de modelado de base de datos con objetos
